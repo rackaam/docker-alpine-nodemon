@@ -6,4 +6,4 @@ VOLUME "/app"
 
 WORKDIR "/app"
 
-CMD ["nodemon", "src/app.js"]
+CMD ["nodemon"]
